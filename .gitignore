@@ -1,0 +1,18 @@
+# debug purposes and local dev stuff
+.venv
+credentials.data
+
+# pytest
+__pycache__/
+.pytest_cache/
+
+# pyinsaller
+build/
+output/
+*.spec
+
+# pycharm
+.idea/
+
+# vscode
+.vscode/
